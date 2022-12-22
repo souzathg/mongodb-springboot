@@ -1,7 +1,6 @@
 package br.com.souzathg.mongodbspringboot.resources;
 
 import java.net.URI;
-import java.time.Instant;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
